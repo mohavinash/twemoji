@@ -1,0 +1,36 @@
+default:
+  base: [Brown, Orange, Green, Teal, Purple]
+  detail: [DarkBrown, DarkOrange, DarkGreen, DarkTeal, DarkPurple]
+  outline: [Black, Black, Black, Black, Black]
+
+mammal_head:
+  mane_base: [Brown, Orange, Brown, DarkBrown, Orange]
+  mane_high: [Orange, Yellow, Orange, LightOrange, Yellow]
+  face_base: [Yellow, Yellow, LightBrown, LightBrown, Yellow]
+  face_inner: [LightBrown, LightOrange, LightBrown, Brown, LightOrange]
+  ear_inner: [Pink, Pink, Pink, LightBrown, Pink]
+  nose: [DarkBrown, DarkBrown, DarkBrown, Grey, DarkBrown]
+  whisker_dot: [DarkBrown, DarkBrown, DarkBrown, Grey, DarkBrown]
+  eye: [Black, Black, Black, Black, Black]
+  outline: [Black, Black, Black, Black, Black]
+
+bird_body:
+  body_base: [Blue, Green, Yellow, Orange, Pink]
+  wing: [DarkBlue, DarkGreen, DarkOrange, DarkOrange, DarkRed]
+  beak: [Orange, Yellow, Orange, Yellow, Orange]
+  eye: [Black, Black, Black, Black, Black]
+  outline: [Black, Black, Black, Black, Black]
+
+plant:
+  leaf_base: [Green, LightGreen, Green, Teal, LightGreen]
+  leaf_detail: [DarkGreen, DarkGreen, DarkGreen, DarkTeal, DarkGreen]
+  flower: [Pink, Orange, Yellow, Purple, Red]
+  stem: [DarkBrown, DarkBrown, DarkBrown, DarkTeal, DarkBrown]
+  outline: [Black, Black, Black, Black, Black]
+
+vehicle:
+  body: [Red, Orange, Blue, Green, Grey]
+  window: [LightBlue, LightBlue, LightBlue, LightBlue, LightBlue]
+  detail: [DarkRed, DarkOrange, DarkBlue, DarkGreen, DarkGrey]
+  wheel: [DarkGrey, DarkGrey, DarkGrey, DarkGrey, DarkGrey]
+  outline: [Black, Black, Black, Black, Black]
